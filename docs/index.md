@@ -1,4 +1,4 @@
-# radian.codes
+# Radian LLC
 
 Hi, my name is Radon ([about
 me](https://intuitiveexplanations.com/about/me)). In my free time, I
