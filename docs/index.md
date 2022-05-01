@@ -29,6 +29,7 @@ Quick links:
 
 * [GitHub organization](https://github.com/radian-software)
 * [My personal website](https://intuitiveexplanations.com/)
+* [Contact Radian LLC](mailto:contact@radian.codes)
 
 FAQ:
 
