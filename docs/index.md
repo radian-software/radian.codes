@@ -53,8 +53,8 @@ FAQ:
   minimum tax charged by California to all registered businesses.
   Otherwise, expenses are pretty small and just cover things like
   Google Workspace, Namecheap, AWS, etc. For the sake of transparency,
-  I plan to make financial records for Radian LLC publicly viewable
-  once I have things set up nicely.
+  [all financial records for Radian LLC are publicly viewable on
+  GitHub](https://github.com/radian-software/financials).
 * *I don't want to get sued. How can I set up something like this?*
   You should probably talk to a lawyer. But here's the short version:
   File the paperwork to register an LLC in your state (or in
