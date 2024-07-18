@@ -1,3 +1,4 @@
 .bundle/vendor
 .jekyll-cache
 _site
+.vercel
