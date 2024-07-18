@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Radian LLC
 
 Hi, my name is Radon ([about
@@ -66,5 +70,3 @@ FAQ:
   transfer your personal intellectual property and copyright to the
   LLC. And read [this Wikipedia
   page](https://en.wikipedia.org/wiki/Piercing_the_corporate_veil).
-
-<script src="https://cdn.usefathom.com/script.js" data-site="HXCYAJHY" defer></script>

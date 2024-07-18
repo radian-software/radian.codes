@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ## Radian LLC privacy policy
 
 At present I do not have a formal privacy policy written up because
