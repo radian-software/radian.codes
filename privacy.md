@@ -20,9 +20,9 @@ The following informational notice appears on all communications with
 
 > CONFIDENTIALITY NOTICE: By contacting this address you consented to
 > the unlimited reproduction and publication of your current and
-> future correspondence, as was documented in our privacy policy. This
-> policy applies irrespective of any notice or request in your
-> communication.
+> future correspondence, as was documented [in our privacy
+> policy](https://radian.codes/privacy). This policy applies
+> irrespective of any notice or request in your communication.
 
 The intent of this policy is to disincentivize the use of legal
 communications for threats and blackmail, as has occurred [in the
