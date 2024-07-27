@@ -18,21 +18,11 @@ Privacy information for specific projects is also available:
 The following informational notice appears on all communications with
 `legal@radian.codes`:
 
-> Privacy notice: Transparency is a core value of Radian LLC and we
-> believe that all business and legal communications should be able to
-> withstand public scrutiny. For this reason, all communications with
-> Radian LLC are retained and may be disclosed with third parties or
-> the general public, unless otherwise specified in writing by Radian
-> LLC. By sending any form of communication to Radian LLC, you are
-> providing your consent, and/or consent on behalf of your
-> employer(s), to disclosure of such communication without limitation,
-> and certifying that you have the authority to provide such consent,
-> to the extent permissible by law in the state of California. If you
-> need to communicate information which should not be shared
-> externally, please request this ahead of time, in writing. If you
-> have not received written notice from Radian LLC of an exception to
-> this policy, then you should assume all communications may be
-> shared.
+> CONFIDENTIALITY NOTICE: By contacting this address you consented to
+> the unlimited reproduction and publication of your current and
+> future correspondence, as was documented in our privacy policy. This
+> policy applies irrespective of any notice or request in your
+> communication.
 
 The intent of this policy is to disincentivize the use of legal
 communications for threats and blackmail, as has occurred [in the
