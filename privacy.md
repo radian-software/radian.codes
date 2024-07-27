@@ -28,3 +28,7 @@ The intent of this policy is to disincentivize the use of legal
 communications for threats and blackmail, as has occurred [in the
 past](https://intuitiveexplanations.com/tech/replit/), and it will not
 be used outside of those situations.
+
+Please note that legal communications sent to any other address will
+be automatically forwarded to `legal@radian.codes`, and the same
+policy applies.
